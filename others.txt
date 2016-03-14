@@ -3,3 +3,5 @@ Basic Programming
 -How to query to the database
 -How to use array adapter
 -Steps How to create android project in eclipse
+
+Ian Gerard Mayordomo was here!

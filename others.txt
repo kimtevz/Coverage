@@ -5,4 +5,8 @@ Basic Programming
 -Steps How to create android project in eclipse
 
 Ian Gerard Mayordomo was here!
+<<<<<<< HEAD
 Kimberly Teves is here
+=======
+Arielle Paula Lorico :)
+>>>>>>> refs/remotes/woodstyle5/master
